@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '28333'
     url: http://www.gutenberg.org/2009/agents/28333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25005#The-Shadow-Witch
 gutenberg_issued: '2008-04-06'
 gutenberg_type: Text
 identifiers:
